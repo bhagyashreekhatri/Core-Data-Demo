@@ -1,0 +1,6 @@
+framework module Pods_UserPost {
+  umbrella header "Pods-UserPost-umbrella.h"
+
+  export *
+  module * { export * }
+}
